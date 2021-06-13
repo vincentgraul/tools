@@ -1,0 +1,23 @@
+{
+  "name": "@vincentgraul/generators",
+  "version": "1.0.0",
+  "description": "A set of code generators (monorepo, library, react...)",
+  "license": "MIT",
+  "author": {
+    "name": "Vincent Graul",
+    "email": "vincent.graul@outlook.com",
+    "url": "http://vincentgraul.com"
+  },
+  "maintainers": [
+    {
+      "name": "Vincent Graul",
+      "email": "vincent.graul@outlook.com",
+      "url": "http://vincentgraul.com"
+    }
+  ],
+  "dependencies": {
+    "@vincentgraul/utils": "^1.0.0",
+    "globby": "^11.0.3",
+    "fs-extra": "^10.0.0"
+  }
+}
