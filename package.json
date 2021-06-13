@@ -1,0 +1,34 @@
+{
+  "private": true,
+  "name": "tools",
+  "description": "A set of tools for NodeJS",
+  "workspaces": {
+    "packages": [
+      "./packages/**"
+    ],
+    "nohoist": [
+      "**/eslint",
+      "**/eslint/**",
+      "**/jest",
+      "**/jest/**",
+      "**/babel-loader",
+      "**/babel-loader/**"
+    ]
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build",
+    "lint": "lerna run lint",
+    "test": "lerna run test"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "@typescript-eslint/eslint-plugin": "^3.0.2",
+    "@typescript-eslint/parser": "^3.0.2",
+    "typescript": "^3.4.3",
+    "lerna": "^3.22.0",
+    "prettier": "^2.0.5",
+    "ts-jest": "^26.0.0"
+  }
+}
