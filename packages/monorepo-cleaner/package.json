@@ -1,0 +1,37 @@
+{
+  "name": "@vincentgraul/monorepo-cleaner",
+  "version": "1.0.0",
+  "main": "./build/index.js",
+  "description": "A tool to clean monorepo (builds and node modules folders)",
+  "license": "MIT",
+  "author": {
+    "name": "Vincent Graul",
+    "email": "vincent.graul@outlook.com",
+    "url": "http://vincentgraul.com"
+  },
+  "maintainers": [
+    {
+      "name": "Vincent Graul",
+      "email": "vincent.graul@outlook.com",
+      "url": "http://vincentgraul.com"
+    }
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./build/index.js"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.20",
+    "@types/prompts": "^2.0.9",
+    "@types/fs-extra": "^9.0.6",
+    "@types/lodash": "^4.14.167",
+    "@vincentgraul/utils": "^1.0.0",
+    "ora": "^5.2.0",
+    "prompts": "^2.3.2",
+    "commander": "^6.2.1",
+    "fs-extra": "^9.0.1",
+    "lodash": "^4.17.20",
+    "slash": "^3.0.0",
+    "execa": "^5.0.0"
+  }
+}
