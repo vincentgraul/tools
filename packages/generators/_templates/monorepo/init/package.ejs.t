@@ -1,5 +1,5 @@
 ---
-to: package2.json
+to: package.json
 ---
 
 {
