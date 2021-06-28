@@ -8,6 +8,9 @@
     "email": "vincent.graul@outlook.com",
     "url": "http://vincentgraul.com"
   },
+  "bin": {
+    "init": "./bin.js"
+  },
   "maintainers": [
     {
       "name": "Vincent Graul",
