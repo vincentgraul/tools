@@ -2,7 +2,7 @@
   "name": "@vincentgraul/generators",
   "version": "1.0.0",
   "description": "A set of code generators (monorepo, library, react...)",
-  "license": "MIT",
+  "license": "GNU GPLV3",
   "author": {
     "name": "Vincent Graul",
     "email": "vincent.graul@outlook.com",

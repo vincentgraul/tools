@@ -9,4 +9,4 @@
 
 ## License
 
-MIT
+GNU GPLV3
