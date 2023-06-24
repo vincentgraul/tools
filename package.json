@@ -1,5 +1,6 @@
 {
   "name": "@vincentgraul/tools",
+  "version": "1.0.0",
   "description": "A set of tools for NodeJS",
   "license": "GNU GPLV3",
   "workspaces": {
