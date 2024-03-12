@@ -19,8 +19,8 @@
     }
   ],
   "dependencies": {
-    "@vincentgraul/utils": "^1.0.0",
-    "globby": "^11.0.3",
-    "fs-extra": "^10.0.0"
+    "@vincentgraul/utils": "^1.0.7",
+    "globby": "^11.1.0",
+    "fs-extra": "^10.1.0"
   }
 }
