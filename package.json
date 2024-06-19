@@ -23,13 +23,13 @@
     "test": "lerna run test"
   },
   "devDependencies": {
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-prettier": "^3.1.3",
-    "@typescript-eslint/eslint-plugin": "^3.0.2",
-    "@typescript-eslint/parser": "^3.0.2",
-    "typescript": "^3.4.3",
-    "lerna": "^3.22.0",
-    "prettier": "^2.0.5",
-    "ts-jest": "^26.0.0"
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "@typescript-eslint/eslint-plugin": "^7.13.1",
+    "@typescript-eslint/parser": "^7.13.1",
+    "typescript": "^5.4.5",
+    "lerna": "^8.1.3",
+    "prettier": "^3.3.2",
+    "ts-jest": "^29.1.5"
   }
 }
