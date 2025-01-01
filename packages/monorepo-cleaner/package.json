@@ -21,7 +21,7 @@
     "start": "node ./build/index.js"
   },
   "dependencies": {
-    "@types/node": "^22.10.1",
+    "@types/node": "^22.10.2",
     "@types/prompts": "^2.4.9",
     "@types/fs-extra": "^11.0.4",
     "@types/lodash": "^4.17.13",
@@ -32,6 +32,6 @@
     "fs-extra": "^11.2.0",
     "lodash": "^4.17.21",
     "slash": "^5.1.0",
-    "execa": "^9.5.1"
+    "execa": "^9.5.2"
   }
 }
