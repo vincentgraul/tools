@@ -24,10 +24,10 @@
   },
   "devDependencies": {
     "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.2.1",
-    "@typescript-eslint/eslint-plugin": "^8.19.0",
-    "@typescript-eslint/parser": "^8.19.0",
-    "typescript": "^5.7.2",
+    "eslint-plugin-prettier": "^5.2.3",
+    "@typescript-eslint/eslint-plugin": "^8.22.0",
+    "@typescript-eslint/parser": "^8.22.0",
+    "typescript": "^5.7.3",
     "lerna": "^8.1.9",
     "prettier": "^3.4.2",
     "ts-jest": "^29.2.5"
