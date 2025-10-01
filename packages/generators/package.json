@@ -21,6 +21,6 @@
   "dependencies": {
     "@vincentgraul/utils": "^1.0.7",
     "globby": "^14.1.0",
-    "fs-extra": "^11.3.0"
+    "fs-extra": "^11.3.2"
   }
 }

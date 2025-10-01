@@ -21,15 +21,15 @@
     "start": "node ./build/index.js"
   },
   "dependencies": {
-    "@types/node": "^22.15.34",
+    "@types/node": "^22.18.8",
     "@types/prompts": "^2.4.9",
     "@types/fs-extra": "^11.0.4",
-    "@types/lodash": "^4.17.19",
+    "@types/lodash": "^4.17.20",
     "@vincentgraul/utils": "^1.0.7",
     "ora": "^8.2.0",
     "prompts": "^2.4.2",
-    "commander": "^14.0.0",
-    "fs-extra": "^11.3.0",
+    "commander": "^14.0.1",
+    "fs-extra": "^11.3.2",
     "lodash": "^4.17.21",
     "slash": "^5.1.0",
     "execa": "^9.6.0"
