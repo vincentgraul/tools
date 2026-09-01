@@ -24,7 +24,7 @@
     "@types/node": "^24.13.3",
     "@types/prompts": "^2.4.9",
     "@types/fs-extra": "^11.0.4",
-    "@types/lodash": "^4.17.24",
+    "@types/lodash": "^4.17.25",
     "@vincentgraul/utils": "^1.0.7",
     "ora": "^9.4.1",
     "prompts": "^2.4.2",
