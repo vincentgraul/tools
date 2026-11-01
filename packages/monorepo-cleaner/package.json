@@ -21,12 +21,12 @@
     "start": "node ./build/index.js"
   },
   "dependencies": {
-    "@types/node": "^24.19.2",
+    "@types/node": "^26.6.6",
     "@types/prompts": "^2.4.9",
     "@types/fs-extra": "^11.0.4",
     "@types/lodash": "^4.17.27",
     "@vincentgraul/utils": "^1.0.7",
-    "ora": "^9.4.1",
+    "ora": "^10.0.0",
     "prompts": "^2.4.2",
     "commander": "^15.0.0",
     "fs-extra": "^11.4.1",
